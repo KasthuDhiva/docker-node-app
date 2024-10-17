@@ -20,7 +20,6 @@ This project demonstrates how to create a simple Node.js web application, contai
 - [EC2 Deployment](#ec2-deployment)  
 - [Future Enhancements](#future-enhancements)  
 - [Contributing](#contributing)  
-- [License](#license)  
 - [Contact](#contact)  
 
 ---
