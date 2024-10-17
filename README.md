@@ -172,5 +172,3 @@ I welcome contributions! Please fork the repository and submit a pull request.
 ## Contact  
 For any questions or issues, please reach out:  
 **Kasthuri** - [GitHub](https://github.com/KasthuDhiva)
-```
-
