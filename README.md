@@ -165,12 +165,7 @@ You can access the running application at:
 ---
 
 ## Contributing  
-We welcome contributions! Please fork the repository and submit a pull request.
-
----
-
-## License  
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more information.
+I welcome contributions! Please fork the repository and submit a pull request.
 
 ---
 
@@ -179,6 +174,3 @@ For any questions or issues, please reach out:
 **Kasthuri** - [GitHub](https://github.com/KasthuDhiva)
 ```
 
----
-
-This is the complete version of the README, formatted for easy copying into GitHub. Let me know if you need any additional modifications!
